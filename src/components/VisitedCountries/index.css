@@ -1,0 +1,29 @@
+.list-img {
+  background-color: #1f1f2f;
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin: 10px;
+}
+.image-map {
+  width: 100%;
+}
+.btn-name-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
+.remove-btn {
+  border: 1px solid #f1f5f9;
+  color: #f1f5f9;
+  background-color: transparent;
+  width: 80px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}

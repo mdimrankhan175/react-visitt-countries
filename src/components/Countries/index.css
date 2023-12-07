@@ -1,0 +1,29 @@
+.countries-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 0;
+  margin-bottom: 15px;
+}
+.un-order-list {
+  display: flex;
+  flex-direction: column;
+  height: 40vh;
+  overflow-y: auto;
+  border: 1px solid #334155;
+  background-color: #1f1f2f;
+  border-radius: 9px;
+  padding-left: 0px;
+}
+.visited-un-order {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.no-countries {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 41vh;
+}

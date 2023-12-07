@@ -1,0 +1,21 @@
+.list-item {
+  list-style-type: none;
+  padding-left: 30px;
+  padding-right: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.line {
+  border: 1px solid #334155;
+  width: 100%;
+}
+.para {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.text {
+  color: #94a3b8;
+  background-color: transparent;
+  margin-right: 28px;
+}
